@@ -27,7 +27,7 @@ class MainActivity : AppCompatActivity() {
                 Toast.makeText(this, "Usuario Incorrecto", Toast.LENGTH_SHORT).show()
             } else if(!pass.equals("mssc")){
                 Toast.makeText(this, "Contraseña Incorrecto", Toast.LENGTH_SHORT).show()
-            } else{
+            } else {
                 Toast.makeText(this, "Usuario y contraseña Incorrectos", Toast.LENGTH_SHORT).show()
             }
         }
