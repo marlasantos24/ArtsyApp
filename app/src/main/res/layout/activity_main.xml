@@ -46,7 +46,8 @@
         android:layout_width="match_parent"
         android:layout_height="56dp"
         android:ems="10"
-        android:inputType="textPersonName" />
+        android:inputType="textPersonName"
+        tools:ignore="SpeakableTextPresentCheck" />
 
     <TextView
         android:id="@+id/textView2"
@@ -68,8 +69,9 @@
         tools:ignore="SpeakableTextPresentCheck" />
 
     <Button
-        android:id="@+id/bentrar"
+        android:id="@+id/bIngresar"
         android:layout_width="160dp"
         android:layout_height="60dp"
         android:layout_margin="120dp"
-        android:text="@string/txtBoton" />
+        android:text="@string/txtIngresar" />
+</LinearLayout>
