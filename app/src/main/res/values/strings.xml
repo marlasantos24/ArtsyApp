@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ArtsyApp</string>
+    <string name="tUsuario">Usuario</string>
+    <string name="tContraseña">Contraseña</string>
+    <string name="tNombreApp">Artsy</string>
+    <string name="txtBoton">Entrar</string>
+</resources>
