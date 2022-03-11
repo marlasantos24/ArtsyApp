@@ -5,4 +5,7 @@
     <string name="tNombreApp">Artsy</string>
     <string name="txtBoton">Entrar</string>
     <string name="txtIngresar">Ingresar</string>
+    <string name="txtPinturas">Pinturas</string>
+    <string name="txtObras">Obras</string>
+    <string name="txtFrida">Frida Kahlo</string>
 </resources>

@@ -4,6 +4,16 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Marla Santos Caamal/AndroidStudioProjects/ArtsyApp/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Marla Santos Caamal/AndroidStudioProjects/ArtsyApp/app/src/main/res/layout/activity_obras_diego.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Marla Santos Caamal/AndroidStudioProjects/ArtsyApp/app/src/main/res/layout/activity_obras_francisco.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Marla Santos Caamal/AndroidStudioProjects/ArtsyApp/app/src/main/res/layout/activity_obras_frida.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Marla Santos Caamal/AndroidStudioProjects/ArtsyApp/app/src/main/res/layout/activity_obras_leonardo.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/Marla Santos Caamal/AndroidStudioProjects/ArtsyApp/app/src/main/res/layout/activity_obras_pbalo.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Marla Santos Caamal/AndroidStudioProjects/ArtsyApp/app/src/main/res/layout/activity_obras_vincent.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Marla Santos Caamal/AndroidStudioProjects/ArtsyApp/app/src/main/res/layout/activity_pintor.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Marla Santos Caamal/AndroidStudioProjects/ArtsyApp/app/src/main/res/layout/activity_pintores.xml" value="0.18" />
+        <entry key="..\:/Users/Marla Santos Caamal/AndroidStudioProjects/ArtsyApp/app/src/main/res/layout/activity_pintores_famosos.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Marla Santos Caamal/AndroidStudioProjects/ArtsyApp/app/src/main/res/layout/template_pintores.xml" value="0.17074275362318841" />
       </map>
     </option>
   </component>

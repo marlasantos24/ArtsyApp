@@ -10,6 +10,33 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ArtsyApp">
         <activity
+            android:name=".ObrasLeonardo"
+            android:exported="false" />
+        <activity
+            android:name=".ObrasDiego"
+            android:exported="false" />
+        <activity
+            android:name=".ObrasFrancisco"
+            android:exported="false" />
+        <activity
+            android:name=".ObrasVincent"
+            android:exported="false" />
+        <activity
+            android:name=".ObrasPablo"
+            android:exported="false" />
+        <activity
+            android:name=".ObrasFrida"
+            android:exported="false" />
+        <activity
+            android:name=".Pintores"
+            android:exported="false" />
+        <activity
+            android:name=".obrasFrida"
+            android:exported="false" />
+        <activity
+            android:name=".Pintor"
+            android:exported="false" />
+        <activity
             android:name=".PintoresFamosos"
             android:exported="false" />
         <activity
