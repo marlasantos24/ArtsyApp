@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    tools:context=".Obraf1">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="264dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="80dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="10dp"
+            android:text="Diego y yo"
+            android:textColor="@color/teal_700"
+            android:textSize="34sp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="wrap_content"
+            android:layout_height="139dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginBottom="10dp"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/obraf6" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="193dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="120dp"
+            android:layout_marginTop="1dp"
+            android:layout_marginBottom="1dp"
+            android:paddingLeft="25dp"
+            android:text="(1949)"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:textColor="@color/purple_200"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="match_parent"
+            android:layout_height="136dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_weight="1"
+            android:text="Ella era su chicuita y él su príncipe sapo sin embargo, el transcurrir de este amor no fue nunca fácil para Frida y Diego. Al poco tiempo de su matrimonio en 1929, empezaron los problemas. El año de 1949, la relación tocó el punto más bajo cuando corrió el rumor de que Diego intentaba casarse con la estrella de cine, María Félix, con quien mantenía un romance. A pesar de que nada de esto resultó y Diego permaneció al lado de Frida, ella terminó profundamente herida. El autorretrato Diego y yo proviene de esta experiencia vivida."
+            android:textAlignment="center"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:textSize="20sp"
+            app:autoSizeTextType="uniform" />
+
+        <Button
+            android:id="@+id/regresar1"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:backgroundTint="@color/teal_700"
+            android:text="Regresar" />
+    </LinearLayout>
+
+</LinearLayout>

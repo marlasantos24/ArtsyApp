@@ -10,6 +10,25 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ArtsyApp">
         <activity
+            android:name=".Obraf6"
+            android:exported="false"
+            android:label="@string/title_activity_obraf6" />
+        <activity
+            android:name=".Obraf5"
+            android:exported="false" />
+        <activity
+            android:name=".Obraf4"
+            android:exported="false" />
+        <activity
+            android:name=".Obraf3"
+            android:exported="false" />
+        <activity
+            android:name=".Obraf2"
+            android:exported="false" />
+        <activity
+            android:name=".Obraf1"
+            android:exported="false" />
+        <activity
             android:name=".ObrasLeonardo"
             android:exported="false" />
         <activity

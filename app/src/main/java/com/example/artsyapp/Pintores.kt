@@ -10,6 +10,9 @@ class Pintores : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_pintores)
 
+
+
+
         val bFrida= findViewById<Button>(R.id.obrasf)
         bFrida.setOnClickListener {
             var intent = Intent(this, ObrasFrida::class.java)

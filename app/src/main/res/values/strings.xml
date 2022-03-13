@@ -8,4 +8,14 @@
     <string name="txtPinturas">Pinturas</string>
     <string name="txtObras">Obras</string>
     <string name="txtFrida">Frida Kahlo</string>
+    <string name="txtDescripcion">Descripcion</string>
+    <string name="txtReseña" />
+    <string name="txtReseñaP">Reseña</string>
+    <string name="title_activity_obraf6">Obraf6</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="txtvolver"><![CDATA[<-]]></string>
+    <string name="txtPantalla2" />
+    <string name="txtVolverP2">Volver</string>
 </resources>

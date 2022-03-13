@@ -20,7 +20,7 @@ class MainActivity : AppCompatActivity() {
             if(nUsuario.equals("marla24") && pass.equals("mssc")) {
                 var intent = Intent(this, Pintores::class.java)
                 startActivity(intent)
-                Toast.makeText(this, "Ingreso Correctamente", Toast.LENGTH_SHORT).show()
+                Toast.makeText(this, "A Ingresado Correctamente", Toast.LENGTH_SHORT).show()
             } else if(!nUsuario.equals("marla24") && !pass.equals("mssc")){
                 Toast.makeText(this, "Usuario y contraseña Incorrectos", Toast.LENGTH_SHORT).show()
             } else if(!nUsuario.equals("marla24")){
@@ -28,6 +28,8 @@ class MainActivity : AppCompatActivity() {
             } else if(!pass.equals("mssc")){
                 Toast.makeText(this, "Contraseña Incorrecta", Toast.LENGTH_SHORT).show()
             }
+
+
         }
 
 
