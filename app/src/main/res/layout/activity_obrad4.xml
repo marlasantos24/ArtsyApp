@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="horizontal"
-    tools:context=".Obrad1">
+    tools:context=".Obrad4">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -17,10 +17,10 @@
             android:id="@+id/textView3"
             android:layout_width="264dp"
             android:layout_height="50dp"
-            android:layout_marginLeft="80dp"
+            android:layout_marginLeft="90dp"
             android:layout_marginTop="30dp"
             android:layout_marginBottom="10dp"
-            android:text="Las Meninas"
+            android:text="Tres músicos"
             android:textColor="@color/teal_700"
             android:textSize="34sp"
             android:textStyle="bold" />
@@ -34,7 +34,7 @@
             android:layout_marginRight="5dp"
             android:layout_marginBottom="10dp"
             android:layout_weight="1"
-            app:srcCompat="@drawable/obrad1" />
+            app:srcCompat="@drawable/obrad4" />
 
         <TextView
             android:id="@+id/textView4"
@@ -44,7 +44,7 @@
             android:layout_marginTop="1dp"
             android:layout_marginBottom="1dp"
             android:paddingLeft="25dp"
-            android:text="(1656)"
+            android:text="(1618)"
             android:textAppearance="@style/TextAppearance.AppCompat.Body1"
             android:textColor="@color/purple_200"
             android:textSize="24sp" />
@@ -58,7 +58,7 @@
             android:layout_marginRight="10dp"
             android:layout_marginBottom="10dp"
             android:layout_weight="1"
-            android:text="La obra constituyó una especie de cuadro secreto y en cierto sentido un escándalo; nadie habló de Las Meninas hasta que en 1696 el portugués Félix da Costa, que lo había visto hacia 1662, lo describió en su Antiguidade da arte da pintura, donde lo criticaba por considerarlo más un autorretrato de Velázquez que un retrato de la emperatriz."
+            android:text="Escena costumbrista donde el autor quiere poner de relieve el carácter sórdido de la situación: ambientada en Sevilla, el más joven de los hombres, con gesto burlesco, sostiene un vaso de vino, haciendo ver que los tres músicos ya han bebido. Los dos personajes de la derecha cogen sus instrumentos sin firmeza y tocan lo que al parecer es una música sin ton ni son."
             android:textAlignment="center"
             android:textAppearance="@style/TextAppearance.AppCompat.Large"
             android:textSize="20sp"
