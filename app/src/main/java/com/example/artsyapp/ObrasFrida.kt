@@ -9,6 +9,7 @@ class ObrasFrida : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_obras_frida)
+
         val bvolver= findViewById<Button>(R.id.bvolver1)
         bvolver.setOnClickListener {
             finish()

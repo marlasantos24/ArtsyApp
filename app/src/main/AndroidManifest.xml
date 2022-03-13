@@ -10,6 +10,27 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ArtsyApp">
         <activity
+            android:name=".ObrasFrancisco"
+            android:exported="false" />
+        <activity
+            android:name=".Obrafco6"
+            android:exported="false" />
+        <activity
+            android:name=".Obrafco5"
+            android:exported="false" />
+        <activity
+            android:name=".Obrafco4"
+            android:exported="false" />
+        <activity
+            android:name=".Obrafco3"
+            android:exported="false" />
+        <activity
+            android:name=".Obrafco2"
+            android:exported="false" />
+        <activity
+            android:name=".Obrafco1"
+            android:exported="false" />
+        <activity
             android:name=".Obrad6"
             android:exported="false" />
         <activity
@@ -105,9 +126,6 @@
             android:exported="false" />
         <activity
             android:name=".ObrasDiego"
-            android:exported="false" />
-        <activity
-            android:name=".ObrasFrancisco"
             android:exported="false" />
         <activity
             android:name=".ObrasVincent"
