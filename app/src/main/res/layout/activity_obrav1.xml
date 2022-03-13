@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="horizontal"
-    tools:context=".Obral3">
+    tools:context=".Obrav1">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -17,10 +17,10 @@
             android:id="@+id/textView3"
             android:layout_width="264dp"
             android:layout_height="50dp"
-            android:layout_marginLeft="150dp"
+            android:layout_marginLeft="50dp"
             android:layout_marginTop="30dp"
             android:layout_marginBottom="10dp"
-            android:text="Baco"
+            android:text="La vie"
             android:textColor="@color/teal_700"
             android:textSize="34sp"
             android:textStyle="bold" />
@@ -34,7 +34,7 @@
             android:layout_marginRight="5dp"
             android:layout_marginBottom="10dp"
             android:layout_weight="1"
-            app:srcCompat="@drawable/obral3" />
+            app:srcCompat="@drawable/obrav1" />
 
         <TextView
             android:id="@+id/textView4"
@@ -44,7 +44,7 @@
             android:layout_marginTop="1dp"
             android:layout_marginBottom="1dp"
             android:paddingLeft="25dp"
-            android:text="(1515)"
+            android:text="(1903)"
             android:textAppearance="@style/TextAppearance.AppCompat.Body1"
             android:textColor="@color/purple_200"
             android:textSize="24sp" />
@@ -58,7 +58,7 @@
             android:layout_marginRight="10dp"
             android:layout_marginBottom="10dp"
             android:layout_weight="1"
-            android:text="El cuadro representaba originariamente un san Juan Bautista en el desierto; como corroboración de esta hipótesis los estudiosos citaban el hecho de que la adición de los atributos de Baco (la corona de pámpanos, la piel de pantera y el racimo de uva) se hizo estando ya el cuadro en las colecciones francesas, entre 1683 y 1695."
+            android:text=""
             android:textAlignment="center"
             android:textAppearance="@style/TextAppearance.AppCompat.Large"
             android:textSize="20sp"

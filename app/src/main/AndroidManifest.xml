@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ArtsyApp">
         <activity
+            android:name=".Obrav1"
+            android:exported="false" />
+        <activity
             android:name=".Obral6"
             android:exported="false" />
         <activity
