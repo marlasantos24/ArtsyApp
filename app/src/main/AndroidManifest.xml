@@ -10,6 +10,42 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ArtsyApp">
         <activity
+            android:name=".Obral6"
+            android:exported="false" />
+        <activity
+            android:name=".Obral5"
+            android:exported="false" />
+        <activity
+            android:name=".Obral3"
+            android:exported="false" />
+        <activity
+            android:name=".Obral4"
+            android:exported="false" />
+        <activity
+            android:name=".Obral2"
+            android:exported="false" />
+        <activity
+            android:name=".Obral1"
+            android:exported="false" />
+        <activity
+            android:name=".Obrap6"
+            android:exported="false" />
+        <activity
+            android:name=".Obrap5"
+            android:exported="false" />
+        <activity
+            android:name=".Obrap4"
+            android:exported="false" />
+        <activity
+            android:name=".Obrap3"
+            android:exported="false" />
+        <activity
+            android:name=".Obrap2"
+            android:exported="false" />
+        <activity
+            android:name=".Obrap1"
+            android:exported="false" />
+        <activity
             android:name=".Obraf6"
             android:exported="false"
             android:label="@string/title_activity_obraf6" />
