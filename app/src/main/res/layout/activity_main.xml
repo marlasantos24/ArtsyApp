@@ -47,6 +47,7 @@
         android:layout_height="56dp"
         android:layout_marginLeft="20dp"
         android:layout_marginRight="20dp"
+        android:drawableLeft="@drawable/ic_usuario"
         android:ems="10"
         android:inputType="textPersonName"
         tools:ignore="SpeakableTextPresentCheck" />
@@ -68,6 +69,7 @@
         android:layout_height="56dp"
         android:layout_marginLeft="20dp"
         android:layout_marginRight="20dp"
+        android:drawableLeft="@drawable/ic_pass"
         android:ems="10"
         android:inputType="textPassword"
         tools:ignore="SpeakableTextPresentCheck" />
