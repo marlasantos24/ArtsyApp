@@ -164,7 +164,7 @@
                 android:layout_height="29dp"
                 android:layout_marginBottom="1dp"
                 android:paddingLeft="25dp"
-                android:text="&quot;La Mousé&quot;"
+                android:text="&quot;La Mousmé&quot;"
                 android:textAlignment="viewStart"
                 android:textSize="20sp" />
 

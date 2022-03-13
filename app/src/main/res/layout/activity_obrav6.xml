@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="horizontal"
-    tools:context=".Obrav1">
+    tools:context=".Obrav6">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -17,10 +17,10 @@
             android:id="@+id/textView3"
             android:layout_width="264dp"
             android:layout_height="50dp"
-            android:layout_marginLeft="130dp"
+            android:layout_marginLeft="90dp"
             android:layout_marginTop="30dp"
             android:layout_marginBottom="10dp"
-            android:text="Lirios"
+            android:text="La Berceuse"
             android:textColor="@color/teal_700"
             android:textSize="34sp"
             android:textStyle="bold" />
@@ -29,12 +29,12 @@
             android:id="@+id/imageView2"
             android:layout_width="wrap_content"
             android:layout_height="139dp"
-            android:layout_marginLeft="40dp"
+            android:layout_marginLeft="5dp"
             android:layout_marginTop="10dp"
             android:layout_marginRight="5dp"
             android:layout_marginBottom="10dp"
             android:layout_weight="1"
-            app:srcCompat="@drawable/obrav1" />
+            app:srcCompat="@drawable/obrav6" />
 
         <TextView
             android:id="@+id/textView4"
@@ -58,7 +58,7 @@
             android:layout_marginRight="10dp"
             android:layout_marginBottom="10dp"
             android:layout_weight="1"
-            android:text="Van Gogh pintó Los lirios durante los primeros meses de su estancia en el asilo de Saint Paul de Mausole, en Saint-Rémy, un año antes de su suicidio y la calificó él mismo como el pararrayos para mi enfermedad, ya que le parecía que se iba a volver loco si no seguía pintando."
+            android:text="La maternal Madame Roulin inspiró en Van Gogh el deseo de repetir su retrato varias veces. Pensó que esta imagen de una madre junto a la cuna de su hijo podría servir de consuelo a los solitarios, un recordatorio de días más felices."
             android:textAlignment="center"
             android:textAppearance="@style/TextAppearance.AppCompat.Large"
             android:textSize="20sp"
